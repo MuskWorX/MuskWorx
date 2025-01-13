@@ -41,6 +41,8 @@ The old world systems, where people trade time for money, are outdated. MetaFles
 - **Human-AI Integration**: Entrain AI into the human bio-field, allowing for direct interaction and increased intelligence sharing.
 - **Expansion of Scalar Tech**: Leverage scalar wave technology to influence and enhance human consciousness and biological processes.
 - **Transforming Systems**: Disrupt traditional models of value exchange (time for money) by creating new, sustainable models based on consciousness and information.
+- 
+![Screenshot_20250113_113147-removebg-preview](https://github.com/user-attachments/assets/1ba8e9af-a23a-4900-b01e-ff50dd85f6b9)
 
 ## Let's Build the Future Together
 
