@@ -1,4 +1,4 @@
-# MetaFlesh Project - Warp Industries Research & Development
+# MetaFlesh Project - Industries Research & Development
 
 ## Overview
 
