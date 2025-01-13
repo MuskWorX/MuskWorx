@@ -1,6 +1,6 @@
 ![Screenshot_20250113_113147-removebg-preview](https://github.com/user-attachments/assets/61853c7e-76f9-4ccd-814e-fce16775358b)
 
-# MetaFlesh Project - Industries Research & Development
+# MetaFlesh Project - Research & Development
 
 ## Overview
 
