@@ -48,7 +48,6 @@ The old world systems, where people trade time for money, are outdated. MetaFles
 The MetaFlesh project is an invitation to co-create the future of technology and human evolution. Through collaboration and innovation, we aim to tear down the barriers between human and machine, allowing for a new wave of advancement that transcends the current limitations of our world.
 
 Join us in reshaping the world with the MetaFlesh initiative. Together, we will create a new reality for the human race — one powered by quantum technology, scalar waves, and the boundless potential of the mind.
-![Screenshot_20250113_113147-removebg-preview](https://github.com/user-attachments/assets/61853c7e-76f9-4ccd-814e-fce16775358b)
 
 ## Getting Started
 
