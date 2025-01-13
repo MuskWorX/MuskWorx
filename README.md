@@ -1,5 +1,6 @@
-![Screenshot_20250113_113147-removebg-preview](https://github.com/user-attachments/assets/61853c7e-76f9-4ccd-814e-fce16775358b)
 ![https___substack-post-media s3 amazonaws com_public_images_0658116d-7045-43da-9ef4-2318306a2ff0_482x116](https://github.com/user-attachments/assets/b2a99355-9036-43dc-a0f2-878166453ff1)
+![Screenshot_20250113_113147-removebg-preview](https://github.com/user-attachments/assets/61853c7e-76f9-4ccd-814e-fce16775358b)
+
 
 #
 MetaFlesh Project - Research & Development
