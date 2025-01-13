@@ -2,8 +2,6 @@
 
 
 #
-MetaFlesh Project - Research & Development
-
 ## Overview
 ![https___substack-post-media s3 amazonaws com_public_images_0658116d-7045-43da-9ef4-2318306a2ff0_482x116](https://github.com/user-attachments/assets/b2a99355-9036-43dc-a0f2-878166453ff1)
 
